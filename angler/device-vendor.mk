@@ -21,8 +21,7 @@ PRODUCT_PACKAGES += \
     HwSarControlService \
     ims \
     qcrilmsgtunnel \
-    TimeService \
-    Tycho 
+    TimeService
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
